@@ -1,0 +1,4 @@
+# Archivos que se crean en la compilación
+*.o
+*.elf
+
